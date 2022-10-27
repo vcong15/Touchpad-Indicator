@@ -1,0 +1,2 @@
+spec: .gear/touchpad-indicator.spec
+tar: @version@:.
